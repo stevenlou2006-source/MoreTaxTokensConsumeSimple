@@ -1,0 +1,9 @@
+{
+  "name": "MoreTaxTokensConsumeSimple",
+  "version_number": "1.2.4",
+  "website_url": "",
+  "description": "已支持至 REPO v0.4.4 版本,mod问题交流QQ群573485890，在商店抽外观时批量消费税款代币。默认一次扣 10 个。仅主机/单人有效。",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
